@@ -12,7 +12,6 @@ export default function Contact() {
     idType: "",
     idNumber: "",
     walletAddress: "",
-    message: "",
   });
 
   const [formSuccess, setFormSuccess] = useState(false);
@@ -53,8 +52,7 @@ export default function Contact() {
           address: "",
           idType: "",
           idNumber: "",
-          walletAddress: "",
-          message: "",
+          walletAddress: ""
         });
 
         setFormSuccess(true);
