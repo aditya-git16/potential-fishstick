@@ -69,7 +69,7 @@ export default function Contact() {
         ) : (
           <form
             method="POST"
-            action="https://characteristics-letting-boxes-reform.trycloudflare.com/kyc"
+            action="https://immigration-cartoon-sunday-pamela.trycloudflare.com/kyc"
             onSubmit={submitForm}
             className="flex flex-col w-100"
           >

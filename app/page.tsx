@@ -51,8 +51,9 @@ export default function Home() {
       <div className="text-white p-2 text-center">
         <h1 className='text-6xl text-pink-700'> Our Features</h1>
         <p className='text-white text-3xl my-8'>Worlds first KYC'd Blockchain, so no Defi rekts</p>
-        <p className='text-white text-3xl my-8'>Redefined mapping(address => uint256) for gas optimizations at 0x03000000000000000009</p>
+        <p className='text-white text-3xl my-8'>Native Random Number Generator at 0x03000000000000000020</p>
         <p className='text-white text-3xl my-8'>Native eddsa25519 support at 0x03000000000000000010</p>
+        <p className='text-white text-3xl my-8'>Redefined mapping for gas optimizations at 0x03000000000000000009</p>
         </div>
       </section>
     </>
