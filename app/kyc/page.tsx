@@ -63,7 +63,7 @@ export default function Contact() {
   return (
     <div className="flex items-center justify-center min-h-screen w-full">
       <div className="flex flex-col bg-white rounded p-5 md:w-1/3 w-3/4 m-4">
-        <p className="text-4xl mb-4">Fill Your Details</p>
+        <p className="text-4xl mb-4">Complete Your KYC</p>
         {formSuccess ? (
           <div>{formSuccessMessage}</div>
         ) : (
